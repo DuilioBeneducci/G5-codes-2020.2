@@ -1,0 +1,62 @@
+/* Color Theme Swatches in Hex */
+.verde-ok-1-hex {
+	color: #B4FAB1;
+}
+
+.verde-ok-2-hex {
+	color: #78B536;
+}
+
+.verde-ok-3-hex {
+	color: #7AFF78;
+}
+
+.verde-ok-4-hex {
+	color: #2B8A28;
+}
+
+.verde-ok-5-hex {
+	color: #87D150;
+}
+
+/* Color Theme Swatches in RGBA */
+.verde-ok-1-rgba {
+	color: rgba(180, 250, 177, 1);
+}
+
+.verde-ok-2-rgba {
+	color: rgba(120, 181, 54, 1);
+}
+
+.verde-ok-3-rgba {
+	color: rgba(122, 255, 120, 1);
+}
+
+.verde-ok-4-rgba {
+	color: rgba(43, 138, 40, 1);
+}
+
+.verde-ok-5-rgba {
+	color: rgba(135, 209, 80, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.verde-ok-1-hsla {
+	color: hsla(117, 87, 83, 1);
+}
+
+.verde-ok-2-hsla {
+	color: hsla(88, 54, 46, 1);
+}
+
+.verde-ok-3-hsla {
+	color: hsla(119, 100, 73, 1);
+}
+
+.verde-ok-4-hsla {
+	color: hsla(118, 55, 34, 1);
+}
+
+.verde-ok-5-hsla {
+	color: hsla(94, 58, 56, 1);
+}

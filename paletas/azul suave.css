@@ -1,0 +1,62 @@
+/* Color Theme Swatches in Hex */
+.azul-suave-1-hex {
+	color: #604FA3;
+}
+
+.azul-suave-2-hex {
+	color: #A069DE;
+}
+
+.azul-suave-3-hex {
+	color: #BBAEEB;
+}
+
+.azul-suave-4-hex {
+	color: #48428A;
+}
+
+.azul-suave-5-hex {
+	color: #7A88B8;
+}
+
+/* Color Theme Swatches in RGBA */
+.azul-suave-1-rgba {
+	color: rgba(96, 79, 163, 1);
+}
+
+.azul-suave-2-rgba {
+	color: rgba(160, 105, 222, 1);
+}
+
+.azul-suave-3-rgba {
+	color: rgba(187, 174, 235, 1);
+}
+
+.azul-suave-4-rgba {
+	color: rgba(72, 66, 138, 1);
+}
+
+.azul-suave-5-rgba {
+	color: rgba(122, 136, 184, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.azul-suave-1-hsla {
+	color: hsla(252, 34, 47, 1);
+}
+
+.azul-suave-2-hsla {
+	color: hsla(268, 63, 64, 1);
+}
+
+.azul-suave-3-hsla {
+	color: hsla(252, 60, 80, 1);
+}
+
+.azul-suave-4-hsla {
+	color: hsla(244, 35, 40, 1);
+}
+
+.azul-suave-5-hsla {
+	color: hsla(226, 30, 60, 1);
+}

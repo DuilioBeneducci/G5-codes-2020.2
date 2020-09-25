@@ -1,0 +1,62 @@
+/* Color Theme Swatches in Hex */
+.vermelho-safe-1-hex {
+	color: #73142D;
+}
+
+.vermelho-safe-2-hex {
+	color: #D95276;
+}
+
+.vermelho-safe-3-hex {
+	color: #F2ACBF;
+}
+
+.vermelho-safe-4-hex {
+	color: #FF705D;
+}
+
+.vermelho-safe-5-hex {
+	color: #F20505;
+}
+
+/* Color Theme Swatches in RGBA */
+.vermelho-safe-1-rgba {
+	color: rgba(115, 20, 45, 1);
+}
+
+.vermelho-safe-2-rgba {
+	color: rgba(217, 82, 118, 1);
+}
+
+.vermelho-safe-3-rgba {
+	color: rgba(242, 172, 191, 1);
+}
+
+.vermelho-safe-4-rgba {
+	color: rgba(255, 112, 93, 1);
+}
+
+.vermelho-safe-5-rgba {
+	color: rgba(242, 5, 5, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.vermelho-safe-1-hsla {
+	color: hsla(344, 70, 26, 1);
+}
+
+.vermelho-safe-2-hsla {
+	color: hsla(344, 63, 58, 1);
+}
+
+.vermelho-safe-3-hsla {
+	color: hsla(343, 72, 81, 1);
+}
+
+.vermelho-safe-4-hsla {
+	color: hsla(7, 100, 68, 1);
+}
+
+.vermelho-safe-5-hsla {
+	color: hsla(0, 95, 48, 1);
+}
